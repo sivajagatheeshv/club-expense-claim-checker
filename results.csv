@@ -1,0 +1,21 @@
+id,club,date,amount,category,bill,status,reason,summary,note
+C01,Coding Club,2026-10-01,1250,printing,True,ok_to_pay,Passed all validation checks,Banner printing,"Paid Rs. 1,250 for banner printing at Copy Point. Bill attached"
+C02,Dance Club,2026-10-02,350,travel,False,needs_bill,Missing proof of purchase (no bill/receipt attached),Auto fare,Auto fare to inter-college fest 350. No bill from the auto driver
+C03,Literary Club,2026-10-06,,other,False,needs_more_info,No numeric amount found in text,Event money request,Need money for our event
+C04,Coding Club,2026-10-08,2400,food,True,ok_to_pay,Passed all validation checks,Snacks for hackathon,"Bought snacks for hackathon 2,400, bill attached"
+C05,Music Club,2026-10-10,6000,equipment,True,needs_approval,"Single claim amount (6000) exceeds threshold of 5,000",Purchased sound equipment,Purchased sound equipment 6000 with invoice attached
+C06,Sports Club,2026-10-11,2500,prizes,True,ok_to_pay,Passed all validation checks,Trophies and medals,Trophies and medals worth 2500 receipt attached
+C07,Dance Club,2026-10-12,3200,costumes,True,over_budget,Claim of 3200 pushes total (3200) over budget limit (3000.0),Team costumes,Paid 3200 for team costumes bill attached
+C08,Coding Club,2026-10-14,900,printing,True,over_budget,Claim of 900 pushes total (2150) over budget limit (2000.0),Printing remaining flyers,"Printing remaining flyers 900, bill attached"
+C09,Drama Club,2026-10-15,1500,costumes,True,ok_to_pay,Passed all validation checks,Stage props purchase,"Paid 1,500 for stage props with bill attached"
+C10,Literary Club,2026-10-16,1800,equipment,True,ok_to_pay,Passed all validation checks,Competition books,Bought books for competition 1800 bill attached
+C11,Music Club,2026-10-18,800,equipment,True,ok_to_pay,Passed all validation checks,Guitar string replacements,Guitar string replacements 800 receipt attached
+C12,Sports Club,2026-10-20,1800,food,True,ok_to_pay,Passed all validation checks,Match refreshments,"Refreshments for match 1,800, receipt attached"
+C13,Coding Club,2026-10-21,2000,food,True,over_budget,Claim of 2000 pushes total (4400) over budget limit (4000.0),Workshop pizza lunch,"Workshop pizza lunch 2,000, bill attached"
+C14,Dance Club,2026-10-22,1500,travel,True,ok_to_pay,Passed all validation checks,Travel expenses for regional competition,Travel expenses for regional competition 1500 bill attached
+C15,Drama Club,2026-10-23,2000,costumes,True,over_budget,Claim of 2000 pushes total (3500) over budget limit (3000.0),Costume rental charges,Costume rental charges 2000 receipt attached
+C16,Literary Club,2026-10-25,800,printing,True,ok_to_pay,Passed all validation checks,Magazines and printing,Magazines and printing 800 bill attached
+C17,Sports Club,2026-10-26,500,equipment,True,ok_to_pay,Passed all validation checks,First aid kit supplies,First aid kit supplies 500 bill attached
+C18,Music Club,2026-10-28,3000,equipment,True,ok_to_pay,Passed all validation checks,Sound system rental deposit,"Sound system rental deposit 3,000, receipt attached"
+C19,Coding Club,2026-10-29,1200,equipment,True,ok_to_pay,Passed all validation checks,Cloud server hosting fee,Cloud server hosting fee 1200 receipt attached
+C20,Drama Club,2026-10-30,4500,equipment,True,ok_to_pay,Passed all validation checks,Auditorium light setup,Auditorium light setup 4500 bill attached

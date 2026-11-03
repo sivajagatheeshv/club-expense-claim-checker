@@ -1,0 +1,24 @@
+=========================================
+   CLUB EXPENSE CLAIM CHECKER SUMMARY    
+=========================================
+
+STATUS TALLIES:
+  - ok_to_pay: 13
+  - needs_bill: 1
+  - needs_more_info: 1
+  - needs_approval: 1
+  - over_budget: 4
+
+APPROVED SPENDING BY CLUB & CATEGORY:
+  - Coding Club [equipment]: 1200.00 / 10000.00
+  - Coding Club [food]: 2400.00 / 4000.00
+  - Coding Club [printing]: 1250.00 / 2000.00
+  - Dance Club [travel]: 1500.00 / 5000.00
+  - Drama Club [costumes]: 1500.00 / 3000.00
+  - Drama Club [equipment]: 4500.00 / 10000.00
+  - Literary Club [equipment]: 1800.00 / 10000.00
+  - Literary Club [printing]: 800.00 / 2000.00
+  - Music Club [equipment]: 3800.00 / 10000.00
+  - Sports Club [equipment]: 500.00 / 10000.00
+  - Sports Club [food]: 1800.00 / 4000.00
+  - Sports Club [prizes]: 2500.00 / 3000.00

@@ -1,0 +1,14 @@
+id,club,date,category,amount,summary
+C01,Coding Club,2026-10-01,printing,1250,Banner printing
+C04,Coding Club,2026-10-08,food,2400,Snacks for hackathon
+C06,Sports Club,2026-10-11,prizes,2500,Trophies and medals
+C09,Drama Club,2026-10-15,costumes,1500,Stage props purchase
+C10,Literary Club,2026-10-16,equipment,1800,Competition books
+C11,Music Club,2026-10-18,equipment,800,Guitar string replacements
+C12,Sports Club,2026-10-20,food,1800,Match refreshments
+C14,Dance Club,2026-10-22,travel,1500,Travel expenses for regional competition
+C16,Literary Club,2026-10-25,printing,800,Magazines and printing
+C17,Sports Club,2026-10-26,equipment,500,First aid kit supplies
+C18,Music Club,2026-10-28,equipment,3000,Sound system rental deposit
+C19,Coding Club,2026-10-29,equipment,1200,Cloud server hosting fee
+C20,Drama Club,2026-10-30,equipment,4500,Auditorium light setup
