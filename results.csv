@@ -1,6 +1,6 @@
 id,club,date,amount,category,bill,status,reason,summary,note
 C01,Coding Club,2026-10-01,1250,printing,True,ok_to_pay,Passed all validation checks,Banner printing,"Paid Rs. 1,250 for banner printing at Copy Point. Bill attached"
-C02,Dance Club,2026-10-02,350,travel,False,needs_bill,Missing proof of purchase (no bill/receipt attached),Auto fare,Auto fare to inter-college fest 350. No bill from the auto driver
+C02,Dance Club,2026-10-02,350,travel,False,needs_bill,Missing proof of purchase (no bill/receipt attached),Auto fare to inter-college fest,Auto fare to inter-college fest 350. No bill from the auto driver
 C03,Literary Club,2026-10-06,,other,False,needs_more_info,No numeric amount found in text,Event money request,Need money for our event
 C04,Coding Club,2026-10-08,2400,food,True,ok_to_pay,Passed all validation checks,Snacks for hackathon,"Bought snacks for hackathon 2,400, bill attached"
 C05,Music Club,2026-10-10,6000,equipment,True,needs_approval,"Single claim amount (6000) exceeds threshold of 5,000",Purchased sound equipment,Purchased sound equipment 6000 with invoice attached
